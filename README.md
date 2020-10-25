@@ -1,3 +1,5 @@
+[//]: # "This may be the most platform independent comment"
+
 <h1 align="center">Hello there, I'm René! 👋</h1>
 
 <h3 align="center">Business Informatics student at Karlsruhe University of Applied Sciences</h3>
