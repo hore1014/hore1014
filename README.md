@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there, I'm René! 👋</h1>
 
-<h3 align="center">Business Informatics student at Karlsruhe University of Applied Sciences</h3>
+<h3 align="center">Business Information Systems student at Karlsruhe University of Applied Sciences</h3>
 
 <br>
 
